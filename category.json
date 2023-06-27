@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Building",
+    "itemsUrl": "item_building.json"
+  },
+  {
+    "name": "Character",
+    "itemsUrl": "item_character.json"
+  },
+  {
+    "name": "Military",
+    "itemsUrl": "item_military.json"
+  },
+  {
+    "name": "Vehicle",
+    "itemsUrl": "item_vehicle.json"
+  },
+  {
+    "name": "Weapon",
+    "itemsUrl": "item_weapon.json"
+  }
+]
+  
