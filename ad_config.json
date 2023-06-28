@@ -1,8 +1,8 @@
 {
   "app_open": "",
-  "interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "native": "ca-app-pub-3940256099942544/2247696110",
-  "banner": "ca-app-pub-3940256099942544/6300978111",
-  "rewarded": "ca-app-pub-3940256099942544/5224354917",
-  "interstitial_interval": 5
+  "interstitial": "ca-app-pub-1851337783780111/2165251188",
+  "native": "ca-app-pub-1851337783780111/7959723096",
+  "banner": "ca-app-pub-1851337783780111/3945807531",
+  "rewarded": "ca-app-pub-1851337783780111/4244619614",
+  "interstitial_interval": 3
 }
